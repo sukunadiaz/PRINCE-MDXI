@@ -27,15 +27,15 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "false",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "2348116737309",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "2349116758687",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "Bishop Dennis",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "Welcome to king of the curses domain",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://www.shutterstock.com/image-illustration/february-17-2024-bogor-indonesia-yuji-2426468399",
 // add img for alive msg
-MENU_IMG: process.env.MENU_IMG || "",
+MENU_IMG: process.env.MENU_IMG || "https://www.shutterstock.com/image-illustration/february-17-2024-bogor-indonesia-yuji-2426468399",
 // menu image 
 LIVE_MSG: process.env.LIVE_MSG || "> Domain Expansion",
 // add alive msg here 
@@ -63,7 +63,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "false",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "false",
 // true if want mark commands as read 
-DEV: process.env.DEV || "2348116737309",
+DEV: process.env.DEV || "2349116758687",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
